@@ -6,9 +6,9 @@
 | VALUE  | DESCRIPTION |
 | ------ | ----------  |
 | `yes` or `file`  | use the contents of a file to configure SADIS in ONOS.<br> |
-|                   | The file used defaults to<br> |
-|                   | `onos-files/onos-sadis-sample.json` but can be specified<br> |
-|                   | via the `SADIS_CFG` environment variable |
+|| The file used defaults to<br> |
+|| `onos-files/onos-sadis-sample.json` but can be specified<br> |
+|| via the `SADIS_CFG` environment variable |
 
 
  Centered   Default           Right Left
